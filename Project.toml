@@ -1,0 +1,6 @@
+name = "binder notebook test"
+uuid = "cf918c07-7006-4cba-85f0-a52f984d92e3"
+version = "1.0.0"
+
+[compat]
+julia = "1.1"
